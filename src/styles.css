@@ -45,6 +45,11 @@ body.dark-theme {
   color: #fff;
 }
 
+.container {
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
 .toolbar {
   display: flex;
   justify-content: flex-end;
